@@ -1,7 +1,5 @@
-# XDEandTOM的下崽站 <small>•᷄ࡇ•᷅​
-</small>
+# 垃圾下崽站 <small>By XDEandTOM</small>
 
 > 随便玩玩 哈哈哈
 
-- By XDEandTOM
 
