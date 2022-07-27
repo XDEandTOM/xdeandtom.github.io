@@ -3,7 +3,7 @@
 ## QQ
 ![qq](https://pc3.gtimg.com/softmgr/logo/48/2_48_1482283025.png)  
 * 更新日期 2022.7.26
-* 当前版本 9.6.3
+* 当前版本 9.6.3  
 [立即下载~](https://webcdn.m.qq.com/spcmgr/download/QQ9.6.2.28760.exe)
 ## Wechat
 ![wechat](https://pc3.gtimg.com/softmgr/logo/48/11488_48_1616464914.png)  
