@@ -4,7 +4,14 @@
 ![qq](https://pc3.gtimg.com/softmgr/logo/48/2_48_1482283025.png)  
 * 更新日期 2022.7.26
 * 当前版本 9.6.3  
-[立即下载~](https://webcdn.m.qq.com/spcmgr/download/QQ9.6.2.28760.exe)
+<details>
+  <summary>下崽地址</summary>  
+
+[官方直链](https://webcdn.m.qq.com/spcmgr/download/QQ9.6.2.28760.exe)  
+
+[NtrQQ修改版 密码:6666](https://lanzouv.com/b385621)
+</details>  
+
 ## Wechat
 ![wechat](https://pc3.gtimg.com/softmgr/logo/48/11488_48_1616464914.png)  
 * 更新日期 2022.7.19
@@ -16,5 +23,5 @@
 
   
   
-  
+<br>
 网站持续更新中...
