@@ -2,7 +2,7 @@
 软件更新`不一定`及时哈哈哈  
 ps:排名不分前后
 ## V2rayN
-![v2rayn](https://xdeandtom.vercel.app/image/v2ray.png)  
+![v2rayn](https://xdeandtom.github.ii/image/v2ray.png)  
 
 懒得找V2rayN的图标了 直接用V2rayNG的了哈哈哈哈哈哈  
 
@@ -21,7 +21,7 @@ ps:排名不分前后
 </details>
 
 ## Clash  
-![clash](https://xdeandtom.vercel.app/image/clash.png)  
+![clash](https://xdeandtom.github.io/image/clash.png)  
 * 兼容ss,ssr,vmess,trojan协议  
 * 更新日期 2022.7.22
 * 当前版本 0.19.25  
@@ -35,5 +35,5 @@ ps:排名不分前后
 </details>  
   
   
-  
+<br>
 网站持续更新中...
