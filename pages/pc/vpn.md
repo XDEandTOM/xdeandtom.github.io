@@ -14,7 +14,8 @@ ps:排名不分前后
 
 <details>
   <summary>下崽地址</summary>
-[ghproxy](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)
+[ghproxy](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)  
+
 [fastgit](https://download.fastgit.org/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)
 </details>
 
@@ -26,7 +27,8 @@ ps:排名不分前后
 
 <details>
   <summary>下崽地址</summary>
-[ghproxy](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)
+[ghproxy](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)  
+
 [fastgit](https://download.fastgit.org/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)
 </details>  
   
