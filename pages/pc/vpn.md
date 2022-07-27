@@ -2,7 +2,7 @@
 软件更新`不一定`及时哈哈哈  
 ps:排名不分前后
 ## V2rayN
-![v2rayn](https://xdeandtom.github.ii/image/v2ray.png)  
+![v2rayn](https://xdeandtom.github.io/image/v2ray.png)  
 
 懒得找V2rayN的图标了 直接用V2rayNG的了哈哈哈哈哈哈  
 
