@@ -1,6 +1,4 @@
-* hhhh
+* 如何捕捉我
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [邮箱](mailto:xdeandtom@163.com)
+  * [Gayhub](https://github.com/xdeandtom)
