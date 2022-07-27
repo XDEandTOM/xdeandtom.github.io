@@ -1,7 +1,7 @@
-# docsify <small>3.5</small>
+# XDEandTOM的下崽站 <small>•᷄ࡇ•᷅​
+</small>
 
-> A magical documentation site generator.
+> 随便玩玩 哈哈哈
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- By XDEandTOM
+
