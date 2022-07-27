@@ -9,7 +9,10 @@
 
 [官方直链](https://webcdn.m.qq.com/spcmgr/download/QQ9.6.2.28760.exe)  
 
-[NtrQQ修改版 密码:6666](https://lanzouv.com/b385621)
+[NtrQQ修改版](https://lanzouv.com/b385621)  
+
+密码:6666
+
 </details>  
 
 ## Wechat
