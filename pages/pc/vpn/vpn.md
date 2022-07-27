@@ -12,7 +12,7 @@ ps:排名不分前后
 ![clash](https://xdeandtom.vercel.app/image/clash.png)  
 * 兼容ss,ssr,vmess,trojan协议  
 * 更新日期 2022.7.22
-* 当前版本 0.19.25
+* 当前版本 0.19.25  
 [立即下载~](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)  
   
   
