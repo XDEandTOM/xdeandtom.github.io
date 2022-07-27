@@ -7,13 +7,21 @@ ps:排名不分前后
 * 兼容vmess,vless,ss,socks,trojan协议
 * 更新日期 2022.7.4
 * 当前版本 5.29  
-[立即下载~](https://hub.chookyin.cn/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)
+<details>
+  <summary>下崽地址</summary>
+[ghproxy](https://ghproxy.com/https://github.com/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)
+[fastgit](https://download.fastgit.org/2dust/v2rayN/releases/download/5.29/v2rayN-Core.zip)
+</details>
 ## Clash
 ![clash](https://xdeandtom.vercel.app/image/clash.png)  
 * 兼容ss,ssr,vmess,trojan协议  
 * 更新日期 2022.7.22
 * 当前版本 0.19.25  
-[立即下载~](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)  
+<details>
+  <summary>下崽地址</summary>
+[ghproxy](https://ghproxy.com/https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)
+[fastgit](https://download.fastgit.org/Fndroid/clash_for_windows_pkg/releases/download/0.19.25/Clash.for.Windows.Setup.0.19.25.exe)
+</details>  
   
   
   
