@@ -1,4 +1,4 @@
-![logo](https://xdeandtom.github.io/image/t.png)
+![logo](https://xdeandtom.netlify.app/image/t.png)
 
 # 垃圾下崽站
 ## By XDEandTOM

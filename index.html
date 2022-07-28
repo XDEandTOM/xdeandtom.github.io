@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html lang="zh">
 <html>
+
 <head>
   <meta charset="UTF-8" />
   <title>XDEandTOM的下崽站</title>
@@ -12,17 +13,33 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
+
 <body>
   <div id="app">Loading...</div>
   <script>
     window.$docsify = {
-        el: '#app',
-        loadNavbar: true,
-        loadSidebar: true,
-        coverpage: true
-      //...
+      name: 'XDEandTOM的下崽站',
+      el: '#app',
+      loadNavbar: true,
+      loadSidebar: true,
+      coverpage: true,
+      search: {
+        paths: 'auto',
+        placeholder: '请输入要搜索的关键字',
+        noData: '没有结果',
+        depth: 6,
+        pagination: {
+          previousText: '上一章节',
+          nextText: '下一章节',
+        }
+      },
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
+
 </html>
